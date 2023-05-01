@@ -15,7 +15,7 @@ Legend
 """
 
 
-START_DATE = "20-08-2022" # Fromat as: DD-MM-YYYY
+START_DATE = "01-01-2023" # Fromat as: DD-MM-YYYY
 END_DATE = "20-01-2023" # Format as: DD-MM-YYYY
 
 CURRENCIES = ["CHF", "CAD", "USD", "EUR", "GBP", "JPY", "AUD", "NZD"]
