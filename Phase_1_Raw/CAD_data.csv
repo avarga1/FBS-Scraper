@@ -1,0 +1,110 @@
+Date,Time,Currency,Event,Previous,Forecast,Actual
+M,0.2%,,0.1%
+,12:30,CAD,New Housing Price Index YoY,7.9%,,7.5%
+"Aug 30, 2022",12:30,CAD,Current Account,C$2.65B,C$6.6B,C$2.69B
+"Aug 31, 2022",12:30,CAD,GDP Growth Rate QoQ,0.8%,,
+,12:30,CAD,GDP MoM Prel,,,
+,12:30,CAD,GDP MoM,,,
+,12:30,CAD,GDP Growth Rate Annualized,3.1%,,
+"Sep 01, 2022",13:30,CAD,Markit Manufacturing PMI,,,
+,13:30,CAD,S&P Global Manufacturing PMI,52.5,,48.7
+"Sep 07, 2022",12:30,CAD,Balance of Trade,C$4.88B,C$3.8B,C$4.05B
+,14:00,CAD,Ivey PMI s.a,49.6,,60.9
+,14:00,CAD,BoC Interest Rate Decision,2.5%,3.25%,3.25%
+"Sep 09, 2022",12:30,CAD,Part Time Employment Chg,-17.5K,,37.5K
+,12:30,CAD,Participation Rate,64.7%,,64.8%
+,12:30,CAD,Employment Change,-30.6K,15K,-39.7K
+,12:30,CAD,Full Time Employment Chg,-13.1K,,-77.2K
+,12:30,CAD,Unemployment Rate,4.9%,5%,5.4%
+"Sep 16, 2022",12:15,CAD,Housing Starts,275.2K,265K,267.4K
+"Sep 20, 2022",12:30,CAD,Inflation Rate MoM,0.1%,-0.1%,-0.3%
+,12:30,CAD,Inflation Rate YoY,7.6%,7.3%,7%
+,12:30,CAD,Core Inflation Rate YoY,6.1%,,5.8%
+"Sep 22, 2022",12:30,CAD,New Housing Price Index YoY,7.5%,,6.9%
+,12:30,CAD,New Housing Price Index MoM,0.1%,,0.1%
+"Sep 23, 2022",12:30,CAD,Retail Sales MoM,1%,-2%,-2.5%
+,12:30,CAD,Retail Sales Ex Autos MoM,0.6%,-1.2%,-3.1%
+"Sep 29, 2022",12:30,CAD,GDP MoM Prel,0.1%,,0%
+,12:30,CAD,GDP MoM,0.1%,-0.1%,0.1%
+"Oct 03, 2022",13:30,CAD,S&P Global Manufacturing PMI,48.7,,49.8
+"Oct 05, 2022",12:30,CAD,Balance of Trade,C$2.37B,C$3.45B,C$1.52B
+"Oct 06, 2022",14:00,CAD,Ivey PMI s.a,60.9,,59.5
+"Oct 07, 2022",12:30,CAD,Full Time Employment Chg,-77.2K,,5.7K
+,12:30,CAD,Part Time Employment Chg,37.5K,,15.4K
+,12:30,CAD,Employment Change,-39.7K,20K,21.1K
+,12:30,CAD,Unemployment Rate,5.4%,5.4%,5.2%
+,12:30,CAD,Participation Rate,64.8%,,64.7%
+"Oct 18, 2022",12:15,CAD,Housing Starts,270.4K,263K,299.6K
+"Oct 19, 2022",12:30,CAD,Inflation Rate YoY,7%,6.8%,6.9%
+,12:30,CAD,Inflation Rate MoM,-0.3%,0%,0.1%
+,12:30,CAD,Core Inflation Rate YoY,5.8%,,6%
+"Oct 21, 2022",12:30,CAD,New Housing Price Index YoY,6.9%,,6.3%
+,12:30,CAD,Retail Sales MoM,-2.2%,0.2%,0.7%
+,12:30,CAD,New Housing Price Index MoM,0.1%,0.2%,-0.1%
+,12:30,CAD,Retail Sales Ex Autos MoM,-2.5%,0.4%,0.7%
+"Oct 26, 2022",14:00,CAD,BoC Monetary Policy Report,,,
+,14:00,CAD,BoC Interest Rate Decision,3.25%,4%,3.75%
+,15:00,CAD,BoC Press Conference,,,
+"Oct 28, 2022",12:30,CAD,GDP MoM,0.1%,0%,0.1%
+,12:30,CAD,GDP MoM Prel,0%,,0.1%
+"Nov 01, 2022",13:30,CAD,S&P Global Manufacturing PMI,49.8,,48.8
+"Nov 03, 2022",12:30,CAD,Balance of Trade,C$0.55B,C$1.34B,C$1.14B
+"Nov 04, 2022",12:30,CAD,Full Time Employment Chg,5.7K,,119.3K
+,12:30,CAD,Part Time Employment Chg,15.4K,,-11K
+,12:30,CAD,Employment Change,21.1K,10K,108.3K
+,12:30,CAD,Participation Rate,64.7%,,64.9%
+,12:30,CAD,Unemployment Rate,5.2%,5.3%,5.2%
+,14:00,CAD,Ivey PMI s.a,59.5,,50.1
+"Nov 10, 2022",16:05,CAD,BoC Gov Macklem Speech,,,
+"Nov 14, 2022",14:30,CAD,Senior Loan Officer Survey,,,
+"Nov 16, 2022",13:15,CAD,Housing Starts,298.8K,270K,267.1K
+,13:30,CAD,Inflation Rate MoM,0.1%,0.7%,0.7%
+,13:30,CAD,Core Inflation Rate YoY,6%,,5.8%
+,13:30,CAD,Inflation Rate YoY,6.9%,6.9%,6.9%
+"Nov 22, 2022",13:30,CAD,New Housing Price Index MoM,-0.1%,,-0.2%
+,13:30,CAD,New Housing Price Index YoY,6.3%,,5.1%
+,13:30,CAD,Retail Sales MoM,0.4%,-0.5%,-0.5%
+,13:30,CAD,Retail Sales Ex Autos MoM,0.5%,-0.6%,-0.7%
+,17:00,CAD,BoC Gov Rogers Speech,,,
+"Nov 28, 2022",13:30,CAD,Current Account,C$2.65B,,C$-11.1B
+"Nov 29, 2022",13:30,CAD,GDP MoM Prel,0.1%,,0%
+,13:30,CAD,GDP Growth Rate QoQ,0.8%,,0.7%
+,13:30,CAD,GDP Growth Rate Annualized,3.2%,1.5%,2.9%
+,13:30,CAD,GDP MoM,0.3%,0.1%,0.1%
+"Dec 01, 2022",14:30,CAD,S&P Global Manufacturing PMI,48.8,,49.6
+"Dec 02, 2022",13:30,CAD,Full Time Employment Chg,119.3K,,50.7K
+,13:30,CAD,Unemployment Rate,5.2%,5.3%,5.1%
+,13:30,CAD,Participation Rate,64.9%,,64.8%
+,13:30,CAD,Part Time Employment Chg,-11K,,-40.6K
+,13:30,CAD,Employment Change,108.3K,5K,10.1K
+"Dec 06, 2022",13:30,CAD,Balance of Trade,C$0.61B,C$1.2B,C$1.21B
+,15:00,CAD,Ivey PMI s.a,50.1,,51.4
+"Dec 07, 2022",15:00,CAD,BoC Interest Rate Decision,3.75%,4.25%,4.25%
+"Dec 12, 2022",20:40,CAD,BoC Gov Macklem Speech,,,
+"Dec 15, 2022",13:15,CAD,Housing Starts,264.6K,255K,264.2K
+"Dec 16, 2022",13:30,CAD,New Housing Price Index YoY,5.1%,,4.1%
+,13:30,CAD,New Housing Price Index MoM,-0.2%,,-0.2%
+"Dec 20, 2022",13:30,CAD,Retail Sales MoM,-0.6%,1.5%,1.4%
+,13:30,CAD,Retail Sales Ex Autos MoM,-0.8%,1.4%,1.7%
+"Dec 21, 2022",13:30,CAD,Inflation Rate YoY,6.9%,6.7%,6.8%
+,13:30,CAD,Inflation Rate MoM,0.7%,0%,0.1%
+,13:30,CAD,Core Inflation Rate YoY,5.8%,,5.8%
+"Dec 23, 2022",13:30,CAD,GDP MoM,0.2%,0.1%,0.1%
+"Jan 03, 2023",14:30,CAD,S&P Global Manufacturing PMI,49.6,,49.2
+"Jan 05, 2023",13:30,CAD,New Housing Price Index YoY,,,
+,13:30,CAD,New Housing Price Index MoM,,,
+,13:30,CAD,Balance of Trade,C$0.13B,C$0.61B,C$-0.04B
+"Jan 06, 2023",13:30,CAD,Employment Change,10.1K,8K,104K
+,13:30,CAD,Participation Rate,64.8%,,65%
+,13:30,CAD,Unemployment Rate,5.1%,5.2%,5%
+,13:30,CAD,Full Time Employment Chg,50.7K,,84.5K
+,13:30,CAD,Part Time Employment Chg,-40.6K,,19.5K
+,15:00,CAD,Ivey PMI s.a,51.4,,33.4
+"Jan 10, 2023",10:10,CAD,BoC Gov Macklem Speech,,,
+"Jan 17, 2023",13:15,CAD,Housing Starts,263K,257.5K,248.6K
+,13:30,CAD,Core Inflation Rate YoY,5.8%,,5.4%
+,13:30,CAD,Inflation Rate MoM,0.1%,-0.5%,-0.6%
+,13:30,CAD,Inflation Rate YoY,6.8%,6.4%,6.3%
+"Jan 20, 2023",13:30,CAD,Retail Sales Ex Autos MoM,1.6%,-0.4%,-0.6%
+,13:30,CAD,ADP Employment Change,,,
+,13:30,CAD,Retail Sales MoM,1.3%,-0.5%,-0.1%

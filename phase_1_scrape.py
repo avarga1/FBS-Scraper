@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -5,6 +6,10 @@ from datetime import datetime, timedelta
 from config import START_DATE, END_DATE
 from config import CURRENCIES
 from multiprocessing import Pool, cpu_count
+
+# Create the Phase_1_Raw directory if it doesn't exist
+if not os.path.exists('./Phase_1_Raw'):
+    os.makedirs('./Phase_1_Raw')
 
 def extract_data(pair, start_date, end_date):
     url = f"https://fbs.com/analytics/calendar/currency?calendarPeriod={start_date}%2C{end_date}&CurrenciesSearch%5Bcurrencies%5D%5B%5D={pair.lower()}&CurrenciesSearch%5Bimpacts%5D%5B%5D=3&CurrenciesSearch%5Bimpacts%5D%5B%5D=2"
@@ -65,14 +70,12 @@ def extract_data(pair, start_date, end_date):
             else:
                 actual = ""
 
-  
             if date_element:
                 date = date_element.get_text().strip()
             else:
                 date = ""
             rows.append([date, time_impact, currency, event, previous, forecast, actual])
             date_element = None
-
 
     with open(f"./Phase_1_Raw/{pair}_data.csv", mode='a', newline='') as file:
         writer = csv.writer(file)
@@ -88,16 +91,12 @@ def extract_data_for_currency(curr):
         writer = csv.writer(file)
         writer.writerow(["Date", "Time", "Currency", "Event", "Previous", "Forecast", "Actual"])
         while start_date <= end_date:
-
             extract_data(curr, start_date.strftime('%d-%m-%Y'), start_date.strftime('%d-%m-%Y'))
-            start_date += timedelta(days=1)
+            start_date = start_date + timedelta(days=1)
 
 if __name__ == '__main__':
-    # Create a pool of workers equal to the number of CPUs
+    # Create a pool of workers equal to the number of CPUs on the machine
     pool = Pool(cpu_count())
-    # Extract the data for each currency in the list
     pool.map(extract_data_for_currency, CURRENCIES)
-    # Close the pool
     pool.close()
-    # Join the processes
     pool.join()

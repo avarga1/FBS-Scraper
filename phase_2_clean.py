@@ -2,12 +2,19 @@ import pandas as pd
 import re
 import sys
 from config import CURRENCIES
+import os
 
 
 def clean_data(pair):
     # read the CSV file
     df = pd.read_csv(f'./Phase_1_Raw/{pair}_data.csv', encoding='latin1')
 
+    # identify the row containing the first date
+    date_mask = df['Date'].fillna('').str.match('[A-Z][a-z]{2} \d{1,2}, \d{4}')
+    first_date_row = df.index[date_mask].min()
+
+    # select all rows from the first date row to the end of the dataframe
+    df = df.loc[first_date_row:]
     # fill missing values in the "Date" column with the previous non-null value
     df['Date'].fillna(method='ffill', inplace=True)
 
@@ -50,11 +57,15 @@ def clean_data(pair):
     # print the first 10 rows of the dataframe
     print(df.head(10))
 
-    # save the cleaned data to a new CSV file
-    df.to_csv(f'./Phase_2_Pre-Processed/{pair}_data_x.csv', index=False, float_format='%.4f')
-    unique_events = df['Event'].unique()
+    output_folder = './Phase_2_Pre-Processed'
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
 
-    print(F'There are {len(unique_events)} unique events in the dataset.')
+    # save the cleaned data to a new CSV file
+    df.to_csv(f'{output_folder}/{pair}_data_x.csv', index=False, float_format='%.4f')
+    
+    unique_events = df['Event'].unique()
+    print(f'There are {len(unique_events)} unique events in the dataset.')
 
 
 
