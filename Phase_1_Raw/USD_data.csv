@@ -1,0 +1,632 @@
+Date,Time,Currency,Event,Previous,Forecast,Actual
+ity Index,-0.25,,0.27
+"Aug 23, 2022",13:45,USD,S&P Global Composite PMI Flash,47.7,,45
+,13:45,USD,S&P Global Services PMI Flash,47.3,49.2,44.1
+,13:45,USD,S&P Global Manufacturing PMI Flash,52.2,52,51.3
+,13:45,USD,Markit Composite PMI Flash,,,
+,13:45,USD,Markit Services PMI Flash,,,
+,13:45,USD,Markit Manufacturing PMI Flash,,,
+,14:00,USD,New Home Sales,0.585M,0.575M,0.511M
+,14:00,USD,New Home Sales MoM,-7.1%,,-12.6%
+,20:30,USD,API Crude Oil Stock Change,-0.448M,,-5.632M
+,23:00,USD,Fed Kashkari Speech,,,
+"Aug 24, 2022",12:30,USD,Durable Goods Orders Ex Transp MoM,0.3%,0.2%,0.3%
+,12:30,USD,Durable Goods Orders MoM,2.2%,0.6%,0%
+,14:00,USD,Pending Home Sales MoM,-8.9%,-4%,-1%
+,14:00,USD,Pending Home Sales YoY,-20.2%,,-19.9%
+,14:30,USD,EIA Crude Oil Stocks Change,-7.056M,-0.933M,-3.282M
+,14:30,USD,EIA Gasoline Stocks Change,-4.642M,-1.464M,-0.027M
+"Aug 25, 2022",00:00,USD,Jackson Hole Economic Symposium,,,
+,12:30,USD,Corporate Profits QoQ Prel,-4.9%,,9.1%
+,12:30,USD,GDP Price Index QoQ 2nd Est,8.3%,8.7%,9%
+,12:30,USD,Initial Jobless Claims,245K,253K,243K
+,12:30,USD,GDP Growth Rate QoQ 2nd Est,-1.6%,-0.8%,-0.6%
+"Aug 26, 2022",00:00,USD,Jackson Hole Economic Symposium,,,
+,12:30,USD,Retail Inventories Ex Autos MoM Adv,1.5%,,0.4%
+,12:30,USD,PCE Price Index YoY,6.8%,,6.3%
+,12:30,USD,Goods Trade Balance Adv,$-98.59B,,$-89.06B
+,12:30,USD,Personal Spending MoM,1%,0.4%,0.1%
+,12:30,USD,PCE Price Index MoM,1%,,-0.1%
+,12:30,USD,Personal Income MoM,0.7%,0.6%,0.2%
+,12:30,USD,Wholesale Inventories MoM Adv,1.9%,,0.8%
+,14:00,USD,Fed Chair Powell Speech,,,
+,14:00,USD,Michigan Consumer Sentiment Final,51.5,55.2,58.2
+"Aug 27, 2022",00:00,USD,Jackson Hole Economic Symposium,,,
+"Aug 29, 2022",14:30,USD,Dallas Fed Manufacturing Index,-22.6,,-12.9
+,18:15,USD,Fed Brainard Speech,,,
+"Aug 30, 2022",12:00,USD,Fed Barkin Speech,,,
+,13:00,USD,S&P/Case-Shiller Home Price YoY,20.5%,19.5%,18.6%
+,13:00,USD,S&P/Case-Shiller Home Price MoM,1.5%,,0.4%
+,14:00,USD,CB Consumer Confidence,95.3,97.7,103.2
+,14:00,USD,JOLTs Job Openings,11.040M,10.45M,11.239M
+,15:00,USD,Fed Williams Speech,,,
+,20:30,USD,API Crude Oil Stock Change,-5.632M,-0.633M,0.593M
+"Aug 31, 2022",12:15,USD,ADP Employment Change,128K,200K,
+,12:15,USD,ADP Employment Change,,,
+,12:15,USD,ADP Employment Change,,,
+,13:45,USD,Chicago PMI,,,
+,14:30,USD,EIA Crude Oil Stocks Change,,,
+,14:30,USD,EIA Gasoline Stocks Change,,,
+"Sep 01, 2022",12:30,USD,Initial Jobless Claims,237K,248K,232K
+,12:30,USD,Unit Labour Costs QoQ Final,12.7%,10.7%,10.2%
+,12:30,USD,Nonfarm Productivity QoQ Final,-7.4%,-4.5%,-4.1%
+,13:45,USD,S&P Global Manufacturing PMI Final,52.2,51.3,51.5
+,13:45,USD,Markit Manufacturing PMI Final,,,
+,14:00,USD,ISM Manufacturing PMI,52.8,52,52.8
+,14:00,USD,ISM Manufacturing Employment,49.9,49,54.2
+,19:30,USD,Fed Bostic Speech,,,
+"Sep 02, 2022",12:30,USD,Average Hourly Earnings YoY,5.2%,5.3%,5.2%
+,12:30,USD,Participation Rate,62.1%,,62.4%
+,12:30,USD,Unemployment Rate,3.5%,3.5%,3.7%
+,12:30,USD,Average Hourly Earnings MoM,0.5%,0.4%,0.3%
+,12:30,USD,Non Farm Payrolls,526K,300K,315K
+,14:00,USD,Factory Orders MoM,1.8%,0.2%,-1%
+"Sep 06, 2022",13:45,USD,S&P Global Services PMI Final,47.3,44.8,43.7
+,13:45,USD,Markit Services PMI Final,,,
+,13:45,USD,S&P Global Composite PMI Final,47.7,45,44.6
+,13:45,USD,Markit Composite PMI Flash,,,
+,14:00,USD,ISM Non-Manufacturing PMI,56.7,55.1,56.9
+,14:00,USD,ISM Non-Manufacturing Employment,49.1,,50.2
+"Sep 07, 2022",12:30,USD,Balance of Trade,$-80.9B,$-70.3B,$-70.7B
+,12:30,USD,Exports,$258.8B,,$259.3B
+,12:30,USD,Imports,$339.6B,,$329.9B
+,13:00,USD,Fed Barkin Speech,,,
+,14:00,USD,Fed Mester Speech,,,
+,16:35,USD,Fed Brainard Speech,,,
+,20:30,USD,API Crude Oil Stock Change,0.593M,-0.733M,3.645M
+"Sep 08, 2022",12:30,USD,Initial Jobless Claims,228K,240K,222K
+,13:10,USD,Fed Powell Speech,,,
+,15:00,USD,EIA Crude Oil Stocks Change,-3.326M,-0.25M,8.844M
+,15:00,USD,EIA Gasoline Stocks Change,-1.172M,-1.667M,0.333M
+"Sep 09, 2022",14:00,USD,Wholesale Inventories MoM,1.8%,0.8%,0.6%
+,14:00,USD,Fed Evans Speech,,,
+,16:00,USD,Fed George Speech,,,
+,16:00,USD,Fed Waller Speech,,,
+"Sep 13, 2022",12:30,USD,Inflation Rate MoM,0%,-0.1%,0.1%
+,12:30,USD,Core Inflation Rate MoM,0.3%,0.3%,0.6%
+,12:30,USD,Core Inflation Rate YoY,5.9%,6.1%,6.3%
+,12:30,USD,CPI,296.276,295.53,296.171
+,12:30,USD,Inflation Rate YoY,8.5%,8.1%,8.3%
+,14:00,USD,IBD/TIPP Economic Optimism,38.1,,44.7
+,18:00,USD,Monthly Budget Statement,$-211B,$-213.5B,$-220B
+,20:30,USD,API Crude Oil Stock Change,3.645M,-0.200M,6.035M
+"Sep 14, 2022",12:30,USD,PPI MoM,-0.4%,-0.1%,-0.1%
+,12:30,USD,Core PPI MoM,0.3%,0.3%,0.4%
+,14:30,USD,EIA Crude Oil Stocks Change,8.844M,0.833M,2.442M
+,14:30,USD,EIA Gasoline Stocks Change,0.333M,-0.858M,-1.767M
+"Sep 15, 2022",12:30,USD,NY Empire State Manufacturing Index,-31.3,-13,-1.5
+,12:30,USD,Retail Sales MoM,-0.4%,0%,0.3%
+,12:30,USD,Philly Fed Employment,24.1,,12
+,12:30,USD,Retail Sales Ex Autos MoM,0%,0.1%,-0.3%
+,12:30,USD,Export Prices MoM,-3.7%,-1.2%,-1.6%
+,12:30,USD,Initial Jobless Claims,218K,226K,213K
+,12:30,USD,Import Prices MoM,-1.5%,-1.2%,-1%
+,12:30,USD,Philadelphia Fed Manufacturing Index,6.2,2.8,-9.9
+,13:15,USD,Industrial Production YoY,3.8%,,3.7%
+,13:15,USD,Industrial Production MoM,0.5%,0.1%,-0.2%
+,14:00,USD,Business Inventories MoM,1.4%,0.6%,0.6%
+"Sep 16, 2022",14:00,USD,Michigan Consumer Sentiment Prel,58.2,60,59.5
+,20:00,USD,Net Long-term TIC Flows,$121.8B,,$21.4B
+"Sep 19, 2022",14:00,USD,NAHB Housing Market Index,49,47,46
+"Sep 20, 2022",12:30,USD,Building Permits MoM,-0.6%,,-10%
+,12:30,USD,Building Permits,1.685M,1.61M,1.517M
+,12:30,USD,Housing Starts MoM,-10.9%,,12.2%
+,12:30,USD,Housing Starts,1.404M,1.445M,1.575M
+,20:30,USD,API Crude Oil Stock Change,6.035M,2.321M,1.035M
+"Sep 21, 2022",14:00,USD,Existing Home Sales,4.82M,4.7M,4.8M
+,14:00,USD,Existing Home Sales MoM,-5.7%,,-0.4%
+,14:30,USD,EIA Gasoline Stocks Change,-1.767M,-0.431M,1.569M
+,14:30,USD,EIA Crude Oil Stocks Change,2.442M,2.161M,1.142M
+,18:00,USD,Interest Rate Projection - Longer,2.5%,,2.5%
+,18:00,USD,Interest Rate Projection - 3rd Yr,,,
+,18:00,USD,Interest Rate Projection - 3rd Yr,2.1%,,2.9%
+,18:00,USD,Interest Rate Projection - 1st Yr,3.8%,,4.6%
+,18:00,USD,Interest Rate Projection - Current,3.4%,,4.4%
+,18:00,USD,Interest Rate Projection - 2nd Yr,3.4%,,3.9%
+,18:00,USD,FOMC Economic Projections,,,
+,18:00,USD,Fed Interest Rate Decision,2.5%,3.25%,3.25%
+,18:30,USD,Fed Press Conference,,,
+"Sep 22, 2022",12:30,USD,Initial Jobless Claims,208K,218K,213K
+,12:30,USD,Current Account,$-282.5B,$-260.6B,$-251.1B
+"Sep 23, 2022",13:45,USD,S&P Global Services PMI Flash,43.7,45,49.2
+,13:45,USD,S&P Global Composite PMI Flash,44.6,,49.3
+,13:45,USD,Markit Manufacturing PMI Flash,,,
+,13:45,USD,Markit Services PMI Flash,,,
+,13:45,USD,Markit Composite PMI Flash,,,
+,13:45,USD,S&P Global Manufacturing PMI Flash,51.5,51.1,51.8
+,18:00,USD,Fed Chair Powell Speech,,,
+"Sep 26, 2022",12:30,USD,Chicago Fed National Activity Index,0.29,,0
+,14:00,USD,Fed Collins Speech,,,
+,14:30,USD,Dallas Fed Manufacturing Index,-12.9,,-17.2
+,16:00,USD,Fed Bostic Speech,,,
+,20:00,USD,Fed Mester Speech,,,
+"Sep 27, 2022",10:15,USD,Fed Evans Speech,,,
+,11:30,USD,Fed Powell Speech,,,
+,12:30,USD,Durable Goods Orders Ex Transp MoM,0.2%,0.2%,0.2%
+,12:30,USD,Durable Goods Orders MoM,-0.1%,-0.4%,-0.2%
+,13:00,USD,S&P/Case-Shiller Home Price YoY,18.7%,17%,16.1%
+,13:00,USD,S&P/Case-Shiller Home Price MoM,0.4%,,-0.8%
+,13:55,USD,Fed Bullard Speech,,,
+,14:00,USD,CB Consumer Confidence,103.6,104.5,108
+,14:00,USD,New Home Sales,0.532M,0.5M,0.685M
+,14:00,USD,New Home Sales MoM,-8.6%,,28.8%
+,20:30,USD,API Crude Oil Stock Change,1.035M,0.333M,4.15M
+"Sep 28, 2022",00:35,USD,Fed Daly Speech,,,
+,12:30,USD,Wholesale Inventories MoM Adv,0.6%,,1.3%
+,12:30,USD,Retail Inventories Ex Autos MoM Adv,0.3%,,0.6%
+,12:30,USD,Goods Trade Balance Adv,$-90.19B,,$-87.3B
+,12:35,USD,Fed Bostic Speech,,,
+,14:00,USD,Pending Home Sales MoM,-0.6%,-1.4%,-2%
+,14:00,USD,Pending Home Sales YoY,-19.5%,,-24.2%
+,14:10,USD,Fed Bullard Speech,,,
+,14:15,USD,Fed Chair Powell Speech,,,
+,14:30,USD,EIA Gasoline Stocks Change,1.569M,0.709M,-2.422M
+,14:30,USD,EIA Crude Oil Stocks Change,1.142M,0.443M,-0.215M
+,15:00,USD,Fed Bowman Speech,,,
+,18:00,USD,Fed Evans Speech,,,
+"Sep 29, 2022",12:30,USD,GDP Growth Rate QoQ Final,-1.6%,-0.6%,-0.6%
+,12:30,USD,Initial Jobless Claims,209K,215K,193K
+,12:30,USD,GDP Price Index QoQ Final,8.3%,8.9%,9.1%
+,13:30,USD,Fed Bullard Speech,,,
+,17:00,USD,Fed Mester Speech,,,
+,17:00,USD,Fed Lane Speech,,,
+,20:45,USD,Fed Daly Speech,,,
+"Sep 30, 2022",12:30,USD,Personal Income MoM,,,
+,12:30,USD,PCE Price Index YoY,,,
+,12:30,USD,Personal Spending MoM,,,
+,12:30,USD,PCE Price Index MoM,,,
+,13:45,USD,Chicago PMI,,,
+,14:00,USD,Michigan Consumer Sentiment Final,,,
+"Oct 03, 2022",13:05,USD,Fed Bostic Speech,,,
+,13:45,USD,S&P Global Manufacturing PMI Final,51.5,51.8,52
+,14:00,USD,ISM Manufacturing PMI,52.8,52.2,50.9
+,14:00,USD,ISM Manufacturing Employment,54.2,53,48.7
+,15:45,USD,Fed Barkin Speech,,,
+,18:15,USD,Fed George Speech,,,
+,19:10,USD,Fed Williams Speech,,,
+,22:45,USD,Fed Bostic Speech,,,
+"Oct 04, 2022",13:00,USD,Fed Logan Speech,,,
+,13:00,USD,Fed Williams Speech,,,
+,13:15,USD,Fed Mester Speech,,,
+,14:00,USD,JOLTs Job Openings,11.17M,10.775M,10.053M
+,14:00,USD,Factory Orders MoM,-1%,0%,0%
+,15:45,USD,Fed Jefferson Speech,,,
+,17:00,USD,Fed Daly Speech,,,
+,20:30,USD,API Crude Oil Stock Change,4.15M,1.966M,-1.77M
+"Oct 05, 2022",12:15,USD,ADP Employment Change,185K,200K,208K
+,12:30,USD,Balance of Trade,$-70.5B,$-67.7B,$-67.4B
+,12:30,USD,Imports,$330B,,$326.3B
+,12:30,USD,Exports,$259.6B,,$258.9B
+,13:45,USD,S&P Global Composite PMI Final,44.6,49.3,49.5
+,13:45,USD,S&P Global Services PMI Final,43.7,49.2,49.3
+,14:00,USD,ISM Non-Manufacturing Employment,50.2,,53
+,14:00,USD,ISM Non-Manufacturing PMI,56.9,56,56.7
+,14:30,USD,EIA Gasoline Stocks Change,-2.422M,-1.334M,-4.728M
+,14:30,USD,EIA Crude Oil Stocks Change,-0.215M,2.052M,-1.356M
+,20:00,USD,Fed Bostic Speech,,,
+"Oct 06, 2022",12:30,USD,Initial Jobless Claims,190K,203K,219K
+,17:00,USD,Fed D. Cook Speech,,,
+,17:00,USD,Fed Evans Speech,,,
+,21:00,USD,Fed Waller Speech,,,
+"Oct 07, 2022",12:30,USD,Average Hourly Earnings MoM,0.3%,0.3%,0.3%
+,12:30,USD,Average Hourly Earnings YoY,5.2%,5.1%,5%
+,12:30,USD,Non Farm Payrolls,315K,250K,263K
+,12:30,USD,Participation Rate,62.4%,,62.3%
+,12:30,USD,Unemployment Rate,3.7%,3.7%,3.5%
+,14:00,USD,Wholesale Inventories MoM,0.6%,1.3%,1.3%
+,14:00,USD,Fed Williams Speech,,,
+"Oct 10, 2022",13:00,USD,Fed Evans Speech,,,
+,17:35,USD,Fed Brainard Speech,,,
+"Oct 11, 2022",14:00,USD,IBD/TIPP Economic Optimism,44.7,,41.6
+,15:30,USD,Fed Harker Speech,,,
+,16:00,USD,Fed Mester Speech,,,
+"Oct 12, 2022",12:30,USD,PPI MoM,-0.2%,0.2%,0.4%
+,12:30,USD,Core PPI MoM,0.3%,0.3%,0.3%
+,17:45,USD,Fed S. Barr Speech,,,
+,18:00,USD,FOMC Minutes,,,
+,20:30,USD,API Crude Oil Stock Change,-1.77M,,7.1M
+,22:30,USD,Fed Bowman Speech,,,
+"Oct 13, 2022",12:30,USD,Initial Jobless Claims,219K,225K,228K
+,12:30,USD,Core Inflation Rate YoY,6.3%,6.5%,6.6%
+,12:30,USD,CPI,296.171,296.43,296.808
+,12:30,USD,Inflation Rate YoY,8.3%,8.1%,8.2%
+,12:30,USD,Inflation Rate MoM,0.1%,0.2%,0.4%
+,12:30,USD,Core Inflation Rate MoM,0.6%,0.5%,0.6%
+,15:00,USD,EIA Gasoline Stocks Change,-4.728M,-1.825M,2.023M
+,15:00,USD,EIA Crude Oil Stocks Change,-1.356M,1.75M,9.88M
+"Oct 14, 2022",12:30,USD,Retail Sales Ex Autos MoM,-0.1%,-0.1%,0.1%
+,12:30,USD,Retail Sales MoM,0.4%,0.2%,0.0%
+,12:30,USD,Import Prices MoM,-1.1%,-1.1%,-1.2%
+,12:30,USD,Export Prices MoM,-1.7%,-1%,-0.8%
+,14:00,USD,Business Inventories MoM,0.5%,0.9%,0.8%
+,14:00,USD,Michigan Consumer Sentiment Prel,58.6,59,59.8
+"Oct 17, 2022",12:30,USD,NY Empire State Manufacturing Index,-1.5,-4,-9.1
+"Oct 18, 2022",13:15,USD,Industrial Production MoM,-0.1%,0.1%,0.4%
+,13:15,USD,Industrial Production YoY,3.9%,,5.3%
+,14:00,USD,NAHB Housing Market Index,46,43,38
+,20:00,USD,Net Long-term TIC Flows,$21.4B,$28.2B,$197.9B
+,20:30,USD,API Crude Oil Stock Change,7.054M,1.551M,-1.27M
+,21:30,USD,Fed Kashkari Speech,,,
+"Oct 19, 2022",12:30,USD,Housing Starts,1.566M,1.475M,1.439M
+,12:30,USD,Building Permits,1.542M,1.53M,1.564M
+,12:30,USD,Building Permits MoM,-8.5%,,1.4%
+,12:30,USD,Housing Starts MoM,13.7%,,-8.1%
+,14:30,USD,EIA Crude Oil Stocks Change,9.88M,1.38M,-1.725M
+,14:30,USD,EIA Gasoline Stocks Change,2.023M,-1.114M,-0.114M
+,17:00,USD,Fed Kashkari Speech,,,
+,22:30,USD,Fed Evans Speech,,,
+,23:30,USD,Fed Bullard Speech,,,
+"Oct 20, 2022",12:30,USD,Philly Fed Employment,12,,28.5
+,12:30,USD,Philadelphia Fed Manufacturing Index,-9.9,-5,-8.7
+,12:30,USD,Initial Jobless Claims,226K,230K,214K
+,14:00,USD,Existing Home Sales MoM,-0.8%,,-1.5%
+,14:00,USD,Existing Home Sales,4.78M,4.7M,4.71M
+,16:00,USD,Fed Harker Speech,,,
+,17:30,USD,Fed Jefferson Speech,,,
+,17:45,USD,Fed Cook Speech,,,
+,18:05,USD,Fed Bowman Speech,,,
+"Oct 21, 2022",13:10,USD,Fed Williams Speech,,,
+,14:30,USD,Monthly Budget Statement,$-220B,$-173.5B,$-430B
+"Oct 24, 2022",12:30,USD,Chicago Fed National Activity Index,0.1,,0.1
+,13:45,USD,S&P Global Services PMI Flash,49.3,49.2,46.6
+,13:45,USD,S&P Global Manufacturing PMI Flash,52,51,49.9
+,13:45,USD,S&P Global Composite PMI Flash,49.5,,47.3
+"Oct 25, 2022",13:00,USD,S&P/Case-Shiller Home Price YoY,16%,14.4%,13.1%
+,13:00,USD,S&P/Case-Shiller Home Price MoM,-0.8%,-0.7%,-1.6%
+,14:00,USD,CB Consumer Confidence,107.8,106.5,102.5
+,17:55,USD,Fed Waller Speech,,,
+,20:30,USD,API Crude Oil Stock Change,-1.27M,0.200M,4.52M
+"Oct 26, 2022",12:30,USD,Wholesale Inventories MoM Adv,1.4%,1%,0.8%
+,12:30,USD,Retail Inventories Ex Autos MoM Adv,0.7%,,-0.1%
+,12:30,USD,Goods Trade Balance Adv,$-87.28B,,$-92.22B
+,12:30,USD,Building Permits Final,1.542M,,1.564M
+,14:00,USD,New Home Sales MoM,24.7%,-13.9%,-10.9%
+,14:00,USD,New Home Sales,0.677M,0.585M,0.603M
+,14:30,USD,EIA Crude Oil Stocks Change,-1.725M,1.029M,2.588M
+,14:30,USD,EIA Gasoline Stocks Change,-0.114M,-0.805M,-1.478M
+"Oct 27, 2022",12:30,USD,Durable Goods Orders Ex Transp MoM,0%,0.2%,-0.5%
+,12:30,USD,GDP Price Index QoQ Adv,9.1%,5.3%,4.1%
+,12:30,USD,Initial Jobless Claims,214K,220K,217K
+,12:30,USD,Durable Goods Orders MoM,0.2%,0.6%,0.4%
+,12:30,USD,GDP Growth Rate QoQ Adv,-0.6%,2.4%,2.6%
+"Oct 28, 2022",12:30,USD,Employment Cost - Wages QoQ,1.4%,,1.3%
+,12:30,USD,Personal Spending MoM,0.6%,0.4%,0.6%
+,12:30,USD,PCE Price Index YoY,6.2%,,6.2%
+,12:30,USD,Personal Income MoM,0.4%,0.3%,0.4%
+,12:30,USD,PCE Price Index MoM,0.3%,,0.3%
+,12:30,USD,Employment Cost - Benefits QoQ,1.2%,,1%
+,12:30,USD,Employment Cost Index QoQ,1.3%,1.2%,1.2%
+,14:00,USD,Pending Home Sales YoY,-24.1%,,-31%
+,14:00,USD,Michigan Consumer Sentiment Final,58.6,59.8,59.9
+,14:00,USD,Pending Home Sales MoM,-1.9%,-5%,-10.2%
+"Oct 31, 2022",13:45,USD,Chicago PMI,45.7,47,45.2
+,14:30,USD,Dallas Fed Manufacturing Index,-17.2,,-19.4
+"Nov 01, 2022",13:45,USD,S&P Global Manufacturing PMI Final,52,49.9,50.4
+,14:00,USD,JOLTs Job Openings,10.28M,10M,10.717M
+,14:00,USD,ISM Manufacturing Employment,48.7,,50
+,14:00,USD,ISM Manufacturing PMI,50.9,50,50.2
+,20:30,USD,API Crude Oil Stock Change,4.52M,0.267M,-6.53M
+"Nov 02, 2022",12:15,USD,ADP Employment Change,192K,195K,239K
+,14:30,USD,EIA Gasoline Stocks Change,-1.478M,-1.358M,-1.257M
+,14:30,USD,EIA Crude Oil Stocks Change,2.588M,0.367M,-3.115M
+,18:00,USD,Fed Interest Rate Decision,3.25%,4%,4%
+,18:30,USD,Fed Press Conference,,,
+"Nov 03, 2022",12:30,USD,Balance of Trade,$-65.7B,$-72.2B,$-73.3B
+,12:30,USD,Nonfarm Productivity QoQ Prel,-4.1%,0.6%,0.3%
+,12:30,USD,Unit Labour Costs QoQ Prel,8.9%,4.1%,3.5%
+,12:30,USD,Initial Jobless Claims,218K,220K,217K
+,12:30,USD,Exports,$260.8B,,$258B
+,12:30,USD,Imports,$326.5B,,$331.3B
+,13:45,USD,S&P Global Services PMI Final,49.3,46.6,47.8
+,13:45,USD,S&P Global Composite PMI Final,49.5,47.3,48.2
+,14:00,USD,ISM Non-Manufacturing PMI,56.7,55.5,54.4
+,14:00,USD,ISM Non-Manufacturing Employment,53,,49.1
+,14:00,USD,Factory Orders MoM,0.2%,0.3%,0.3%
+"Nov 04, 2022",12:30,USD,Average Hourly Earnings YoY,5%,4.7%,4.7%
+,12:30,USD,Unemployment Rate,3.5%,3.6%,3.7%
+,12:30,USD,Average Hourly Earnings MoM,0.3%,0.3%,0.4%
+,12:30,USD,Non Farm Payrolls,315K,200K,261K
+,12:30,USD,Participation Rate,62.3%,,62.2%
+"Nov 07, 2022",20:40,USD,Fed Collins Speech,,,
+,20:40,USD,Fed Mester Speech,,,
+,23:00,USD,Fed Barkin Speech,,,
+"Nov 08, 2022",00:00,USD,2022 Midterm Elections,,,
+,15:00,USD,IBD/TIPP Economic Optimism,41.6,41.5,40.4
+,21:30,USD,API Crude Oil Stock Change,-6.53M,1.100M,5.618M
+"Nov 09, 2022",08:00,USD,Fed Williams Speech,,,
+,15:00,USD,Wholesale Inventories MoM,1.4%,0.8%,0.6%
+,15:30,USD,EIA Crude Oil Stocks Change,-3.115M,1.36M,3.925M
+,15:30,USD,EIA Gasoline Stocks Change,-1.257M,-1.08M,-0.899M
+,16:00,USD,Fed Barkin Speech,,,
+"Nov 10, 2022",07:00,USD,Fed Waller Speech,,,
+,13:30,USD,Core Inflation Rate MoM,0.6%,0.5%,0.3%
+,13:30,USD,Core Inflation Rate YoY,6.6%,6.5%,6.3%
+,13:30,USD,CPI,296.808,298.583,298.012
+,13:30,USD,Initial Jobless Claims,218K,220K,225K
+,13:30,USD,Inflation Rate MoM,0.4%,0.6%,0.4%
+,13:30,USD,Inflation Rate YoY,8.2%,8%,7.7%
+,14:00,USD,Fed Harker Speech,,,
+,14:35,USD,Fed Logan Speech,,,
+,17:30,USD,Fed Mester Speech,,,
+,18:30,USD,Fed George Speech,,,
+,19:00,USD,Monthly Budget Statement,$-430B,$-90B,$-88B
+,23:35,USD,Fed Williams Speech,,,
+"Nov 11, 2022",15:00,USD,Michigan Consumer Sentiment Prel,59.9,59.5,54.7
+"Nov 13, 2022",21:30,USD,Fed Waller Speech,,,
+"Nov 14, 2022",16:30,USD,Fed Brainard Speech,,,
+"Nov 15, 2022",13:30,USD,PPI MoM,0.2%,0.4%,0.2%
+,13:30,USD,NY Empire State Manufacturing Index,-9.1,-5,4.5
+,13:30,USD,Core PPI MoM,0.2%,0.3%,0%
+,14:00,USD,Fed Cook Speech,,,
+,15:00,USD,Fed S. Barr Testimony,,,
+,21:30,USD,API Crude Oil Stock Change,5.618M,,-5.835M
+"Nov 16, 2022",13:30,USD,Retail Sales MoM,0%,1%,1.3%
+,13:30,USD,Export Prices MoM,-1.5%,-0.4%,-0.3%
+,13:30,USD,Import Prices MoM,-1.1%,-0.4%,-0.2%
+,13:30,USD,Retail Sales Ex Autos MoM,0.1%,0.4%,1.3%
+,14:15,USD,Industrial Production MoM,0.1%,0.2%,-0.1%
+,14:15,USD,Industrial Production YoY,5%,,3.3%
+,14:50,USD,Fed Williams Speech,,,
+,15:00,USD,NAHB Housing Market Index,38,36,33
+,15:00,USD,Business Inventories MoM,0.9%,0.5%,0.4%
+,15:00,USD,Fed S. Barr Testimony,,,
+,15:30,USD,EIA Crude Oil Stocks Change,3.925M,-0.44M,-5.4M
+,15:30,USD,EIA Gasoline Stocks Change,-0.899M,0.31M,2.207M
+,19:35,USD,Fed Waller Speech,,,
+,21:00,USD,Net Long-term TIC Flows,$198.3B,,$118B
+"Nov 17, 2022",12:30,USD,Fed Bostic Speech,,,
+,13:30,USD,Housing Starts,1.488M,1.41M,1.425M
+,13:30,USD,Initial Jobless Claims,226K,225K,222K
+,13:30,USD,Building Permits MoM,1.4%,,
+,13:30,USD,Building Permits MoM Prel,1.4%,,-2.4%
+,13:30,USD,Philadelphia Fed Manufacturing Index,-8.7,-6.2,-19.4
+,13:30,USD,Housing Starts MoM,-1.3%,,-4.2%
+,13:30,USD,Philly Fed Employment,28.5,,7.1
+,13:30,USD,Building Permits,1.564M,,
+,13:30,USD,Building Permits Prel,1.564M,,1.526M
+,14:15,USD,Fed Bowman Speech,,,
+,14:40,USD,Fed Mester Speech,,,
+,15:40,USD,Fed Kashkari Speech,,,
+,15:40,USD,Fed Jefferson Speech,,,
+,18:45,USD,Fed Kashkari Speech,,,
+"Nov 18, 2022",13:40,USD,Fed Collins Speech,,,
+,15:00,USD,Existing Home Sales MoM,-1.5%,,-5.9%
+,15:00,USD,Existing Home Sales,4.71M,4.38M,4.43M
+"Nov 19, 2022",18:45,USD,Fed Bostic Speech,,,
+"Nov 21, 2022",13:30,USD,Chicago Fed National Activity Index,0.17,,-0.05
+"Nov 22, 2022",16:00,USD,Fed Mester Speech,,,
+,19:15,USD,Fed George Speech,,,
+,19:45,USD,Fed Bullard Speech,,,
+,21:30,USD,API Crude Oil Stock Change,-5.835M,-2.200M,-4.8M
+"Nov 23, 2022",13:25,USD,Building Permits Final,1.564M,1.526M,1.512M
+,13:30,USD,Durable Goods Orders Ex Transp MoM,-0.9%,0%,0.5%
+,13:30,USD,Durable Goods Orders MoM,0.3%,0.4%,1%
+,13:30,USD,Initial Jobless Claims,223K,225K,240K
+,14:45,USD,S&P Global Composite PMI Flash,48.2,,46.3
+,14:45,USD,S&P Global Services PMI Flash,47.8,47.9,46.1
+,14:45,USD,S&P Global Composite Flash,,,
+,14:45,USD,S&P Global Manufacturing PMI Flash,50.4,50,47.6
+,15:00,USD,Michigan Consumer Sentiment Final,59.9,55,56.8
+,15:00,USD,New Home Sales MoM,-11%,,7.5%
+,15:00,USD,New Home Sales,0.588M,0.57M,0.632M
+,15:30,USD,EIA Gasoline Stocks Change,2.207M,0.383M,3.058M
+,15:30,USD,EIA Crude Oil Stocks Change,-5.4M,-1.055M,-3.691M
+,19:00,USD,FOMC Minutes,,,
+"Nov 28, 2022",15:30,USD,Dallas Fed Manufacturing Index,-19.4,,-14.4
+,17:00,USD,Fed Williams Speech,,,
+,17:00,USD,Fed Bullard Speech,,,
+"Nov 29, 2022",14:00,USD,S&P/Case-Shiller Home Price YoY,13.1%,10.8%,10.4%
+,14:00,USD,S&P/Case-Shiller Home Price MoM,-1.6%,,-1.5%
+,15:00,USD,CB Consumer Confidence,102.2,100,100.2
+,21:30,USD,API Crude Oil Stock Change,-4.819M,-2.487M,-7.85M
+"Nov 30, 2022",13:15,USD,ADP Employment Change,239K,200K,127K
+,13:30,USD,Corporate Profits QoQ Prel,6.2%,,-0.2%
+,13:30,USD,Wholesale Inventories MoM Adv,0.6%,,0.8%
+,13:30,USD,GDP Price Index QoQ 2nd Est,9%,4.1%,4.3%
+,13:30,USD,Goods Trade Balance Adv,$-91.91B,,$-99B
+,13:30,USD,GDP Growth Rate QoQ 2nd Est,-0.6%,2.7%,2.9%
+,13:30,USD,Retail Inventories Ex Autos MoM Adv,-0.1%,,-0.4%
+,14:45,USD,Chicago PMI,45.2,47,37.2
+,15:00,USD,Pending Home Sales YoY,-29.9%,,-37%
+,15:00,USD,Pending Home Sales MoM,-8.7%,-5%,-4.6%
+,15:00,USD,JOLTs Job Openings,10.687M,10.3M,10.334M
+,15:30,USD,EIA Gasoline Stocks Change,3.058M,1.625M,2.769M
+,15:30,USD,EIA Crude Oil Stocks Change,-3.691M,-2.758M,-12.58M
+,17:35,USD,Fed Cook Speech,,,
+,18:30,USD,Fed Chair Powell Speech,,,
+"Dec 01, 2022",13:30,USD,PCE Price Index MoM,0.3%,,0.3%
+,13:30,USD,PCE Price Index YoY,6.3%,,6%
+,13:30,USD,Initial Jobless Claims,241K,235K,225K
+,13:30,USD,Personal Income MoM,0.4%,0.4%,0.7%
+,13:30,USD,Personal Spending MoM,0.6%,0.8%,0.8%
+,14:25,USD,Fed Logan Speech,,,
+,14:30,USD,Fed Bowman Speech,,,
+,14:45,USD,S&P Global Manufacturing PMI Final,50.4,47.6,47.7
+,15:00,USD,ISM Manufacturing PMI,50.2,49.8,49
+,15:00,USD,ISM Manufacturing Employment,50,,48.4
+,20:00,USD,Fed S. Barr Speech,,,
+"Dec 02, 2022",13:30,USD,Participation Rate,62.2%,,62.1%
+,13:30,USD,Average Hourly Earnings YoY,4.9%,4.6%,5.1%
+,13:30,USD,Average Hourly Earnings MoM,0.5%,0.3%,0.6%
+,13:30,USD,Unemployment Rate,3.7%,3.7%,3.7%
+,13:30,USD,Non Farm Payrolls,284K,200K,263K
+,15:15,USD,Fed Evans Speech,,,
+"Dec 05, 2022",14:45,USD,S&P Global Composite PMI Final,48.2,46.3,46.4
+,14:45,USD,S&P Global Services PMI Final,47.8,46.1,46.2
+,14:45,USD,S&P Global Composite Final,,,
+,15:00,USD,ISM Non-Manufacturing Employment,49.1,,51.5
+,15:00,USD,ISM Non-Manufacturing PMI,54.4,53.3,56.5
+,15:00,USD,Factory Orders MoM,0.3%,0.7%,1%
+"Dec 06, 2022",13:30,USD,Balance of Trade,$-74.1B,$-80B,$-78.2B
+,13:30,USD,Imports,$332.6B,,$334.8B
+,13:30,USD,Exports,$258.5B,,$256.6B
+,21:30,USD,API Crude Oil Stock Change,-7.85M,-3.884M,-6.426M
+"Dec 07, 2022",13:30,USD,Unit Labour Costs QoQ Final,8.9%,3.1%,2.4%
+,13:30,USD,Nonfarm Productivity QoQ Final,-4.1%,0.6%,0.8%
+,15:30,USD,EIA Crude Oil Stocks Change,-12.58M,-3.305M,-5.187M
+,15:30,USD,EIA Gasoline Stocks Change,2.769M,2.707M,5.32M
+"Dec 08, 2022",13:30,USD,Initial Jobless Claims,226K,230K,230K
+"Dec 09, 2022",13:30,USD,Core PPI MoM,0.1%,0.2%,0.4%
+,13:30,USD,PPI MoM,0.3%,0.2%,0.3%
+,15:00,USD,Michigan Consumer Sentiment Prel,56.8,56.9,59.1
+,15:00,USD,Wholesale Inventories MoM,0.6%,0.8%,0.5%
+,17:00,USD,Fed Quarterly Financial Accounts,,,
+"Dec 12, 2022",19:00,USD,Monthly Budget Statement,$-88B,$-248B,$-249B
+"Dec 13, 2022",13:30,USD,Inflation Rate YoY,7.7%,7.3%,7.1%
+,13:30,USD,Core Inflation Rate MoM,0.3%,0.3%,0.2%
+,13:30,USD,Core Inflation Rate YoY,6.3%,6.1%,6%
+,13:30,USD,CPI,298.012,298.045,297.711
+,13:30,USD,Inflation Rate MoM,0.4%,0.3%,0.1%
+,15:00,USD,IBD/TIPP Economic Optimism,40.4,41.3,42.9
+,21:30,USD,API Crude Oil Stock Change,-6.426M,-3.913M,7.819M
+"Dec 14, 2022",12:00,USD,MBA 30-Year Mortgage Rate,6.41%,,6.42%
+,13:30,USD,Export Prices MoM,-0.4%,-0.4%,-0.3%
+,13:30,USD,Import Prices MoM,-0.4%,-0.5%,-0.6%
+,15:30,USD,EIA Gasoline Stocks Change,5.32M,2.714M,4.496M
+,15:30,USD,EIA Crude Oil Stocks Change,-5.187M,-3.595M,10.231M
+,19:00,USD,Interest Rate Projection - 3rd Yr,2.9%,,3.1%
+,19:00,USD,Interest Rate Projection - Longer,2.5%,,2.5%
+,19:00,USD,Fed Interest Rate Decision,4%,4.5%,4.5%
+,19:00,USD,Interest Rate Projection - 1st Yr,4.6%,,5.1%
+,19:00,USD,Interest Rate Projection - 2nd Yr,3.9%,,4.1%
+,19:00,USD,FOMC Economic Projections,,,
+,19:00,USD,Interest Rate Projection - Current,4.4%,,4.4%
+,19:30,USD,Fed Press Conference,,,
+"Dec 15, 2022",13:30,USD,NY Empire State Manufacturing Index,4.5,-1,-11.2
+,13:30,USD,Retail Sales MoM,1.3%,-0.1%,-0.6%
+,13:30,USD,Retail Sales Ex Autos MoM,1.2%,0.2%,-0.2%
+,13:30,USD,Philadelphia Fed Manufacturing Index,-19.4,-10,-13.8
+,13:30,USD,Initial Jobless Claims,231K,230K,211K
+,14:15,USD,Industrial Production MoM,-0.1%,0.1%,-0.2%
+,14:15,USD,Industrial Production YoY,3.3%,,2.5%
+,15:00,USD,Business Inventories MoM,0.2%,0.4%,0.3%
+,21:00,USD,Net Long-term TIC Flows,$117.7B,,$67.8B
+"Dec 16, 2022",14:45,USD,S&P Global Manufacturing PMI Flash,47.7,47.7,46.2
+,14:45,USD,S&P Global Services PMI Flash,46.2,46.8,44.4
+,14:45,USD,S&P Global Composite PMI Flash,46.4,,44.6
+"Dec 19, 2022",15:00,USD,NAHB Housing Market Index,33,34,31
+"Dec 20, 2022",13:30,USD,Building Permits MoM,,,
+,13:30,USD,Housing Starts,1.434M,1.4M,1.427M
+,13:30,USD,Building Permits,,,
+,13:30,USD,Building Permits MoM Prel,-3.3%,,-11.2%
+,13:30,USD,Building Permits Prel,1.512M,1.485M,1.342M
+,13:30,USD,Housing Starts MoM,-2.1%,,-0.5%
+,21:30,USD,API Crude Oil Stock Change,7.819M,-0.167M,-3.069M
+"Dec 21, 2022",12:00,USD,MBA 30-Year Mortgage Rate,6.42%,,6.34%
+,13:30,USD,Current Account,$-238.7B,$-222B,$-217.1B
+,15:00,USD,Existing Home Sales,4.43M,4.2M,4.09M
+,15:00,USD,Existing Home Sales MoM,-5.9%,-5.4%,-7.7%
+,15:00,USD,CB Consumer Confidence,101.4,101,108.3
+,15:30,USD,EIA Gasoline Stocks Change,4.496M,2.14M,2.53M
+,15:30,USD,EIA Crude Oil Stocks Change,10.231M,-1.657M,-5.894M
+"Dec 22, 2022",13:30,USD,Initial Jobless Claims,214K,222K,216K
+,13:30,USD,GDP Growth Rate QoQ Final,-0.6%,2.9%,3.2%
+,13:30,USD,GDP Price Index QoQ Final,9%,4.3%,4.4%
+"Dec 23, 2022",13:25,USD,Building Permits Final,1.512M,,1.351M
+,13:30,USD,Durable Goods Orders Ex Transp MoM,0.1%,0%,0.2%
+,13:30,USD,PCE Price Index MoM,0.4%,,0.1%
+,13:30,USD,PCE Price Index YoY,6.1%,,5.5%
+,13:30,USD,Durable Goods Orders MoM,0.7%,-0.6%,-2.1%
+,13:30,USD,Personal Spending MoM,0.9%,0.2%,0.1%
+,13:30,USD,Personal Income MoM,0.7%,0.3%,0.4%
+,15:00,USD,New Home Sales MoM,8.2%,-4.7%,5.8%
+,15:00,USD,Michigan Consumer Sentiment Final,56.8,59.1,59.7
+,15:00,USD,New Home Sales,0.605M,0.6M,0.64M
+"Dec 27, 2022",13:30,USD,Retail Inventories Ex Autos MoM Adv,-0.7%,,-0.3%
+,13:30,USD,Goods Trade Balance Adv,$-98.8B,,$-83.35B
+,13:30,USD,Wholesale Inventories MoM Adv,0.6%,,1%
+,14:00,USD,S&P/Case-Shiller Home Price MoM,-1.5%,,-0.8%
+,14:00,USD,S&P/Case-Shiller Home Price YoY,10.4%,8.2%,8.6%
+,15:30,USD,Dallas Fed Manufacturing Index,-14.4,,-18.8
+"Dec 28, 2022",15:00,USD,Pending Home Sales MoM,-4.6%,-0.8%,-4%
+,15:00,USD,Pending Home Sales YoY,-37.1%,,-37.8%
+,21:30,USD,API Crude Oil Stock Change,-3.069M,,-1.3M
+"Dec 29, 2022",13:30,USD,Initial Jobless Claims,216K,225K,225K
+,16:00,USD,EIA Crude Oil Stocks Change,-5.894M,-1.52M,0.718M
+,16:00,USD,EIA Gasoline Stocks Change,2.53M,0.52M,-3.105M
+"Dec 30, 2022",14:45,USD,Chicago PMI,37.2,40,44.9
+"Jan 03, 2023",14:45,USD,S&P Global Manufacturing PMI Final,47.7,,46.2
+"Jan 04, 2023",12:00,USD,MBA 30-Year Mortgage Rate,6.34%,,6.58%
+,12:00,USD,MBA 30-Year Mortgage Rate,6.34%,,
+,15:00,USD,ISM Manufacturing Employment,48.4,48.3,51.4
+,15:00,USD,ISM Manufacturing PMI,49,48.5,48.4
+,15:00,USD,JOLTs Job Openings,10.512M,10M,10.458M
+,19:00,USD,FOMC Minutes,,,
+,21:30,USD,API Crude Oil Stock Change,-1.3M,,3.298M
+"Jan 05, 2023",13:15,USD,ADP Employment Change,182K,150K,235K
+,13:30,USD,Exports,$256.9B,,$251.9B
+,13:30,USD,Balance of Trade,$-77.8B,$-73B,$-61.5B
+,13:30,USD,Initial Jobless Claims,223K,225K,204K
+,13:30,USD,Imports,$334.8B,,$313.4B
+,14:20,USD,Fed Bostic Speech,,,
+,14:45,USD,S&P Global Composite PMI Final,46.4,44.6,45
+,14:45,USD,S&P Global Services PMI Final,46.2,44.4,44.7
+,16:00,USD,EIA Crude Oil Stocks Change,0.718M,1.154M,1.694M
+,16:00,USD,EIA Gasoline Stocks Change,-3.105M,-0.486M,-0.346M
+,18:20,USD,Fed Bullard Speech,,,
+"Jan 06, 2023",13:30,USD,Average Hourly Earnings YoY,0.6%,,
+,13:30,USD,Non Farm Payrolls,256K,200K,223K
+,13:30,USD,Average Hourly Earnings YoY,4.8%,5%,4.6%
+,13:30,USD,Average Hourly Earnings MoM,0.4%,0.4%,0.3%
+,13:30,USD,Unemployment Rate,3.6%,3.7%,3.5%
+,13:30,USD,Participation Rate,62.2%,,62.3%
+,15:00,USD,ISM Non-Manufacturing PMI,56.5,55,49.6
+,15:00,USD,ISM Non-Manufacturing Employment,51.5,,49.8
+,15:00,USD,Factory Orders MoM,0.4%,-0.8%,-1.8%
+,16:15,USD,Fed Bostic Speech,,,
+,16:15,USD,Fed Cook Speech,,,
+,17:15,USD,Fed Barkin Speech,,,
+,20:30,USD,Fed Bostic Speech,,,
+"Jan 09, 2023",17:30,USD,Fed Bostic Speech,,,
+"Jan 10, 2023",14:00,USD,Fed Chair Powell Speech,,,
+,15:00,USD,IBD/TIPP Economic Optimism,42.9,,42.3
+,21:30,USD,API Crude Oil Stock Change,3.298M,-2.375M,14.865M
+"Jan 11, 2023",12:00,USD,MBA 30-Year Mortgage Rate,6.58%,,6.42%
+,15:30,USD,EIA Crude Oil Stocks Change,1.694M,-2.243M,18.962M
+,15:30,USD,EIA Gasoline Stocks Change,-0.346M,1.186M,4.114M
+"Jan 12, 2023",13:30,USD,Inflation Rate YoY,7.1%,6.5%,6.5%
+,13:30,USD,CPI,297.711,296.701,296.797
+,13:30,USD,Initial Jobless Claims,206K,215K,205K
+,13:30,USD,Core Inflation Rate YoY,6%,5.7%,5.7%
+,13:30,USD,Core Inflation Rate MoM,0.2%,0.3%,0.3%
+,13:30,USD,Inflation Rate MoM,0.1%,0%,-0.1%
+,19:00,USD,Monthly Budget Statement,$-249B,$-70B,$-85B
+"Jan 13, 2023",12:30,USD,Fed Harker Speech,,,
+,13:30,USD,Export Prices MoM,-0.4%,-0.5%,-2.6%
+,13:30,USD,Import Prices MoM,-0.7%,-0.9%,0.4%
+,15:00,USD,Michigan Consumer Sentiment Prel,59.7,60.5,64.6
+"Jan 17, 2023",13:30,USD,NY Empire State Manufacturing Index,-11.2,-9,-32.9
+,20:00,USD,Fed Williams Speech,,,
+"Jan 18, 2023",12:00,USD,MBA 30-Year Mortgage Rate,6.42%,,6.23%
+,13:30,USD,Retail Sales MoM,-1%,-0.8%,-1.1%
+,13:30,USD,PPI MoM,0.2%,-0.1%,-0.5%
+,13:30,USD,Core PPI MoM,0.2%,0.1%,0.1%
+,13:30,USD,Retail Sales Ex Autos MoM,-0.6%,-0.4%,-1.1%
+,14:00,USD,Fed Bostic Speech,,,
+,14:15,USD,Industrial Production YoY,2.2%,,1.6%
+,14:15,USD,Industrial Production MoM,-0.6%,-0.1%,-0.7%
+,14:30,USD,Fed Bullard Speech,,,
+,15:00,USD,NAHB Housing Market Index,31,31,35
+,15:00,USD,Business Inventories MoM,0.2%,0.4%,0.4%
+,19:00,USD,Fed Harker Speech,,,
+,19:00,USD,Fed Beige Book,,,
+,21:00,USD,Net Long-term TIC Flows,$67.8B,,$171.5B
+,21:30,USD,API Crude Oil Stock Change,14.865M,-1.750M,7.615M
+,22:00,USD,Fed Logan Speech,,,
+"Jan 19, 2023",13:30,USD,Building Permits,,,
+,13:30,USD,Building Permits MoM Prel,-10.6%,,-1.6%
+,13:30,USD,Initial Jobless Claims,205K,214K,190K
+,13:30,USD,Building Permits MoM,,,
+,13:30,USD,Housing Starts MoM,-1.8%,,-1.4%
+,13:30,USD,Philadelphia Fed Manufacturing Index,-13.7,-11,-8.9
+,13:30,USD,Building Permits Prel,1.351M,1.37M,1.33M
+,13:30,USD,Housing Starts,1.401M,1.359M,1.382M
+,14:00,USD,Fed Collins Speech,,,
+,16:00,USD,EIA Gasoline Stocks Change,4.114M,2.529M,3.483M
+,16:00,USD,EIA Crude Oil Stocks Change,18.962M,-0.593M,8.408M
+,18:15,USD,Fed Brainard Speech,,,
+,23:35,USD,Fed Williams Speech,,,
+"Jan 20, 2023",14:00,USD,Fed Harker Speech,,,
+,15:00,USD,Existing Home Sales MoM,-7.9%,,-1.5%
+,15:00,USD,Existing Home Sales,4.08M,3.96M,4.02M
+,18:00,USD,Fed Waller Speech,,,

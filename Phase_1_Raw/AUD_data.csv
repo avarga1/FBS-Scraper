@@ -1,0 +1,163 @@
+Date,Time,Currency,Event,Previous,Forecast,Actual
+,,
+,23:00,AUD,Markit Manufacturing PMI Flash,,,
+,23:00,AUD,S&P Global Services PMI Flash,50.9,,49.6
+,23:00,AUD,S&P Global Manufacturing PMI Flash,55.7,,54.5
+"Aug 29, 2022",01:30,AUD,Retail Sales MoM Prel,0.2%,0.3%,1.3%
+"Aug 30, 2022",01:30,AUD,Building Permits MoM,-0.6%,-2%,-17.2%
+"Aug 31, 2022",01:30,AUD,Construction Work Done QoQ,-0.9%,,
+,01:30,AUD,Building Permits MoM Prel,,,
+,22:30,AUD,Ai Group Manufacturing Index,,,
+,23:00,AUD,S&P Global Manufacturing PMI Final,,,
+,23:00,AUD,Markit Manufacturing PMI Final,,,
+"Sep 01, 2022",01:30,AUD,Investment Lending for Homes,-6.3%,,-11.2%
+,01:30,AUD,Home Loans MoM,-3.3%,-3%,-7.0%
+"Sep 04, 2022",23:00,AUD,Markit Services PMI Final,,,
+,23:00,AUD,S&P Global Services PMI Final,50.9,,50.2
+"Sep 05, 2022",01:30,AUD,Company Gross Profits QoQ,9.8%,4%,7.6%
+,01:30,AUD,Retail Sales MoM Final,0.2%,1.3%,1.3%
+"Sep 06, 2022",04:30,AUD,RBA Interest Rate Decision,1.85%,2.35%,2.35%
+,22:30,AUD,Ai Group Services Index,51.7,,53.3
+"Sep 07, 2022",01:30,AUD,GDP Growth Rate YoY,3.3%,3.5%,3.6%
+,01:30,AUD,GDP Growth Rate QoQ,0.7%,1%,0.9%
+,01:30,AUD,Building Permits MoM Final,,,
+"Sep 08, 2022",01:30,AUD,Balance of Trade,A$17.13B,A$14.5B,A$8.733B
+,03:05,AUD,RBA Gov Lowe Speech,,,
+"Sep 13, 2022",00:30,AUD,Westpac Consumer Confidence Index,81.2,,84.4
+,00:30,AUD,Westpac Consumer Confidence Change,-3%,,3.9%
+,01:30,AUD,NAB Business Confidence,8,,10
+"Sep 14, 2022",02:30,AUD,HIA New Home Sales MoM,-13.1%,,-16.0%
+"Sep 15, 2022",01:30,AUD,Part Time Employment Chg,46K,,-25.3K
+,01:30,AUD,Full Time Employment Chg,-86.9K,,58.8K
+,01:30,AUD,Unemployment Rate,3.4%,3.4%,3.5%
+,01:30,AUD,RBA Bulletin,,,
+,01:30,AUD,Employment Change,-41.0K,35K,33.5K
+"Sep 20, 2022",01:30,AUD,RBA Meeting Minutes,,,
+"Sep 21, 2022",02:00,AUD,RBA Bullock Speech,,,
+"Sep 22, 2022",23:00,AUD,Markit Manufacturing PMI Flash,,,
+,23:00,AUD,Markit Services PMI Flash,,,
+,23:00,AUD,S&P Global Services PMI Flash,50.2,,50.4
+,23:00,AUD,S&P Global Manufacturing PMI Flash,53.8,,53.9
+"Sep 28, 2022",01:30,AUD,Retail Sales MoM Prel,1.3%,0.4%,0.6%
+"Oct 01, 2022",08:20,AUD,RBA Gov Lowe Speech,,,
+"Oct 02, 2022",22:00,AUD,S&P Global Manufacturing PMI Final,53.8,,53.5
+"Oct 03, 2022",21:30,AUD,Ai Group Manufacturing Index,49.3,,50.2
+"Oct 04, 2022",00:30,AUD,Investment Lending for Homes,-11.2%,,-4.8%
+,00:30,AUD,Building Permits MoM Prel,-18.2%,5%,28.1%
+,00:30,AUD,Home Loans MoM,-7.0%,-3.5%,-2.7%
+,01:30,AUD,Building Permits MoM,,,
+,03:30,AUD,RBA Interest Rate Decision,2.35%,2.85%,2.6%
+,22:00,AUD,S&P Global Services PMI Final,50.4,,50.6
+"Oct 05, 2022",00:30,AUD,Retail Sales MoM Final,1.3%,,0.6%
+"Oct 06, 2022",00:30,AUD,Balance of Trade,A$8.967B,A$10.1B,A$8.324B
+"Oct 07, 2022",00:30,AUD,Building Permits MoM Final,,,
+,00:30,AUD,RBA Financial Stability Review,,,
+"Oct 09, 2022",21:30,AUD,Ai Group Services Index,53.3,,48
+"Oct 10, 2022",23:30,AUD,Westpac Consumer Confidence Index,84.4,,83.7
+,23:30,AUD,Westpac Consumer Confidence Change,3.9%,,-0.9%
+"Oct 11, 2022",00:30,AUD,NAB Business Confidence,10,,5
+,00:30,AUD,Building Permits MoM Final,-18.2%,,28.1%
+,22:00,AUD,RBA Ellis Speech,,,
+"Oct 12, 2022",07:00,AUD,HIA New Home Sales MoM,,,
+"Oct 18, 2022",00:05,AUD,RBA Bullock Speech,,,
+,00:30,AUD,RBA Meeting Minutes,,,
+"Oct 20, 2022",00:30,AUD,Employment Change,36.3K,25K,0.9K
+,00:30,AUD,Unemployment Rate,3.5%,3.5%,3.5%
+,00:30,AUD,Full Time Employment Chg,55.0K,,13.3K
+,00:30,AUD,Part Time Employment Chg,-18.7K,,-12.4K
+"Oct 23, 2022",22:00,AUD,S&P Global Manufacturing PMI Flash,53.5,,52.8
+,22:00,AUD,S&P Global Services PMI Flash,50.6,,49
+,22:05,AUD,RBA Kent Speech,,,
+"Oct 25, 2022",08:30,AUD,Federal Budget,,,
+"Oct 26, 2022",00:30,AUD,Inflation Rate QoQ,1.8%,1.6%,1.8%
+,00:30,AUD,Monthly CPI Indicator,6.9%,,7.3%
+,00:30,AUD,Inflation Rate YoY,6.1%,7%,7.3%
+"Oct 27, 2022",04:30,AUD,Annual Report 2022,,,
+"Oct 28, 2022",00:30,AUD,PPI QoQ,1.4%,,1.9%
+"Oct 31, 2022",00:30,AUD,Retail Sales MoM Prel,0.6%,0.6%,0.6%
+,22:00,AUD,S&P Global Manufacturing PMI Final,53.5,,
+"Nov 01, 2022",03:30,AUD,RBA Interest Rate Decision,2.6%,2.85%,2.85%
+,08:20,AUD,RBA Gov Lowe Speech,,,
+,21:30,AUD,Ai Group Manufacturing Index,50.2,,49.6
+"Nov 02, 2022",00:30,AUD,Building Permits MoM Prel,23.1%,-7%,-5.8%
+,00:30,AUD,Investment Lending for Homes,-4.8%,,-6.0%
+,00:30,AUD,Home Loans MoM,-2.7%,-2.65%,-9.3%
+,22:00,AUD,S&P Global Services PMI Final,50.6,,49.3
+"Nov 03, 2022",00:30,AUD,Building Permits MoM Prel,,,
+,00:30,AUD,Balance of Trade,A$8.664B,A$8.85B,A$12.444B
+,05:00,AUD,RBA Kearns Speech,,,
+"Nov 04, 2022",00:30,AUD,RBA Statement on Monetary Policy,,,
+,00:30,AUD,Retail Sales MoM Final,0.6%,0.6%,0.6%
+"Nov 07, 2022",21:30,AUD,Ai Group Services Index,48,,47.7
+,23:30,AUD,Westpac Consumer Confidence Change,-0.9%,,-6.9%
+,23:30,AUD,Westpac Consumer Confidence Index,83.7,,78
+"Nov 08, 2022",00:30,AUD,NAB Business Confidence,5,,0
+"Nov 09, 2022",00:30,AUD,Building Permits MoM Final,23.1%,,-5.8%
+,05:30,AUD,HIA New Home Sales MoM,,,
+,09:05,AUD,RBA Bullock Speech,,,
+"Nov 15, 2022",00:30,AUD,RBA Meeting Minutes,,,
+"Nov 17, 2022",00:30,AUD,Part Time Employment Chg,-14.7K,,-14.9K
+,00:30,AUD,Full Time Employment Chg,10.8K,,47.1K
+,00:30,AUD,Employment Change,-3.8K,15K,32.2K
+,00:30,AUD,Unemployment Rate,3.5%,3.6%,3.4%
+"Nov 22, 2022",07:00,AUD,RBA Gov Lowe Speech,,,
+,22:00,AUD,S&P Global Manufacturing PMI Flash,52.7,,51.5
+,22:00,AUD,S&P Global Services PMI Flash,49.3,,47.2
+"Nov 27, 2022",23:00,AUD,RBA Gov Lowe Speech,,,
+"Nov 28, 2022",00:30,AUD,Retail Sales MoM Prel,0.6%,0.5%,-0.2%
+"Nov 30, 2022",00:00,AUD,RBA Kearns Speech,,,
+,00:30,AUD,Construction Work Done QoQ,-3.8%,1.5%,2.2%
+,00:30,AUD,Monthly CPI Indicator,7.3%,7.4%,6.9%
+,00:30,AUD,Building Permits MoM Prel,-8.1%,-1.8%,-6%
+,21:30,AUD,Ai Group Manufacturing Index,49.6,,
+,22:00,AUD,S&P Global Manufacturing PMI Final,52.7,,
+"Dec 02, 2022",00:30,AUD,Investment Lending for Homes,-3.5%,,-2.2%
+,00:30,AUD,Retail Sales MoM Final,0.6%,,-0.2%
+,00:30,AUD,Home Loans MoM,-4.8%,-4.5%,-2.9%
+,02:00,AUD,RBA Gov Lowe Speech,,,
+"Dec 04, 2022",22:00,AUD,S&P Global Services PMI Final,49.3,,47.6
+"Dec 05, 2022",00:30,AUD,Company Gross Profits QoQ,7.8%,0.3%,-12.4%
+"Dec 06, 2022",03:30,AUD,RBA Interest Rate Decision,2.85%,3.1%,3.1%
+,21:30,AUD,Ai Group Services Index,47.7,,45.6
+"Dec 07, 2022",00:30,AUD,GDP Growth Rate QoQ,0.9%,0.7%,0.6%
+,00:30,AUD,GDP Growth Rate YoY,3.4%,6.2%,5.9%
+,00:30,AUD,Building Permits MoM Final,-8.1%,-6%,-6%
+,21:45,AUD,RBA Jones Speech,,,
+"Dec 08, 2022",00:30,AUD,RBA Bulletin,,,
+,00:30,AUD,Balance of Trade,A$12.444B,A$12.1B,A$12.217B
+"Dec 12, 2022",23:30,AUD,Westpac Consumer Confidence Change,-6.9%,,3%
+,23:30,AUD,Westpac Consumer Confidence Index,78,,80
+"Dec 13, 2022",00:30,AUD,NAB Business Confidence,0,,-4
+,22:30,AUD,RBA Gov Lowe Speech,,,
+"Dec 14, 2022",00:00,AUD,HIA New Home Sales MoM,,,
+,03:50,AUD,RBA Connolly Speech,,,
+"Dec 15, 2022",00:30,AUD,Full Time Employment Chg,55.0K,,34.2K
+,00:30,AUD,Employment Change,43.1K,19K,64K
+,00:30,AUD,Unemployment Rate,3.4%,3.4%,3.4%
+,00:30,AUD,Part Time Employment Chg,-11.9K,,29.8K
+,22:00,AUD,S&P Global Services PMI Flash,47.6,,
+,22:00,AUD,Judo Bank Manufacturing PMI Flash,51.3,,50.4
+,22:00,AUD,S&P Global Manufacturing PMI Flash,51.3,,
+,22:00,AUD,Judo Bank Services PMI Flash,47.6,,46.9
+"Dec 20, 2022",00:30,AUD,RBA Meeting Minutes,,,
+"Dec 22, 2022",00:30,AUD,Retail Sales MoM Prel,,,
+"Dec 23, 2022",00:30,AUD,Housing Credit MoM,0.4%,,0.4%
+"Jan 01, 2023",21:30,AUD,Ai Group Manufacturing Index,44.7,,
+"Jan 02, 2023",22:00,AUD,Judo Bank Manufacturing PMI Final,51.3,,50.2
+,22:00,AUD,S&P Global Manufacturing PMI Final,51.3,,
+"Jan 04, 2023",22:00,AUD,Judo Bank Services PMI Final,47.6,46.9,47.3
+,22:00,AUD,S&P Global Services PMI Final,47.6,,
+"Jan 05, 2023",21:30,AUD,Ai Group Services Index,45.6,,
+"Jan 09, 2023",00:30,AUD,Building Permits MoM Prel,-5.6%,-1%,-9.0%
+"Jan 11, 2023",00:30,AUD,Retail Sales MoM,0.4%,0.6%,1.4%
+,00:30,AUD,Monthly CPI Indicator,6.9%,7.3%,7.3%
+"Jan 12, 2023",00:30,AUD,Balance of Trade,A$12.217B,A$10.5B,A$13.201B
+"Jan 13, 2023",00:30,AUD,Investment Lending for Homes,-2.3%,,-3.6%
+,00:30,AUD,Home Loans MoM,-3.1%,-3%,-3.8%
+"Jan 16, 2023",23:30,AUD,Westpac Consumer Confidence Index,80.3,,84.3
+,23:30,AUD,Westpac Consumer Confidence Change,3%,,5%
+"Jan 19, 2023",00:30,AUD,Unemployment Rate,3.5%,3.4%,3.5%
+,00:30,AUD,Part Time Employment Chg,25.0K,,-32.2K
+,00:30,AUD,Full Time Employment Chg,33.2K,,17.6K
+,00:30,AUD,Employment Change,58.2K,22.5K,-14.6K
+"Jan 20, 2023",05:30,AUD,HIA New Home Sales MoM,,,
